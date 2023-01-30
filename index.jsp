@@ -1,6 +1,13 @@
-<html>
-<body>
-<h2>Mohan weds Shandini</h2>
-<p style="background-image: url('img_girl.jpg');">
-</body>
+<html> 
+<head>
+<title> HTML source Tag </title>
+</head>
+<body> 
+<h1 style="color:green;">GeeksforGeeks</h1>
+<h2>HTML <source> Tag</h2>
+<video width="400" height="350" controls> 
+<source src="video.mp4" type="video/mp4"> 
+<source src="video.ogg" type="video/ogg"> 
+</video>   
+</body> 
 </html>
