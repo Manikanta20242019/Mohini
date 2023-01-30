@@ -3,7 +3,7 @@
 <title> Mohan WEDS Shandini </title>
 </head>
 <body> 
-<h1 style="color:green;">అద్దేపల్లి వారి పెళ్లిసందడి
+<h1 style="color:green;"> అద్దేపల్లి వారి పెళ్లిసందడి
 </h1>
 <h2>HTML <source> Tag</h2>
 <video width="400" height="350" controls> 
